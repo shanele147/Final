@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Margo Script';
+    src: url('MargoScript-Regular.eot');
+    src: url('MargoScript-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MargoScript-Regular.woff2') format('woff2'),
+        url('MargoScript-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

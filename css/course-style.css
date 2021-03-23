@@ -1,0 +1,12 @@
+.table-div {
+    padding-top: 3rem;
+    text-align: center;
+}
+.table-div .img-container {
+    width: 10rem;
+    height: 8rem;
+}
+
+#course-list {
+    align-items: flex-start;
+}
